@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /private/
-Disallow: /tmp/
 Sitemap: https://superbet365.online/sitemap.xml
